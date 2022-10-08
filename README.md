@@ -1,4 +1,3 @@
-## This is the main repository : 
 
 | # | project | Live Demo |
 | ----------- | ----------- | ---------- |
