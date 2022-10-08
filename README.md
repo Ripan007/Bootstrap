@@ -2,4 +2,4 @@
 
 | # | project | Live Demo |
 | ----------- | ----------- | ---------- |
-| 1 | portfolio | https://stirring-unicorn-9f076b.netlify.app/|
+| 1 | portFolio | https://stirring-unicorn-9f076b.netlify.app/|
